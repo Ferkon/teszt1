@@ -2,7 +2,7 @@
 
 int main(void)
 {
-  unsigned int tmp=1234;
+  unsigned long tmp=1234;
   
   printf("%d\n",&tmp);    // print to screen
   
